@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Vanessa"
-theme = "hugo-tracks-theme"
+theme = "hugo-identify-theme-master"
