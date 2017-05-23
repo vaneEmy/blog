@@ -1565,7 +1565,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: #bf80ff;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -1578,13 +1578,14 @@
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: #99004d;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #ff80aa !important;
+
 			text-decoration: none;
 		}
 
@@ -1598,11 +1599,11 @@
 	}
 
 	p {
+    color: #000;
 		margin: 0 0 2em 0;
-	}
-
+  }
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #99004d;
 		font-weight: 400;
 		line-height: 1em;
 	}
@@ -1992,7 +1993,7 @@
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			background: url("images/stars2.jpg");
+			/*background: url("images/stars2.jpg");*/
 			border-radius: 0.35em;
 			content: '';
 			display: block;
@@ -2465,7 +2466,8 @@
 		background-attachment: scroll,								fixed;
 		background-image: url("images/overlay.png"), url("../images/bg.jpg");
 		background-position: top left,							top left;
-		background-repeat: repeat,								no-repeat;
+		background: url(images/darks21.jpg);
+    background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
@@ -2486,7 +2488,7 @@
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.5);
+			color: #fff;
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
@@ -2513,7 +2515,7 @@
 		}
 
 			#footer .icons a {
-				color: rgba(255, 255, 255, 0.4);
+				color: #fff;
 			}
 
 		#footer .copyright {
