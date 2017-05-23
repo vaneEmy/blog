@@ -2,7 +2,7 @@
 #languageCode = "en-us"
 #title = "Vanessa Emily"
 #theme = "hugo-strata-theme-master"
-baseurl = "https://vaneemy.github.io"
+baseurl = "https://vaneemy.github.io/"
 languageCode = "en-us"
 title = "Vanessa Emily"
 theme = "hugo-strata-theme-master"
