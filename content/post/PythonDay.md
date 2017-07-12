@@ -6,7 +6,6 @@ title = "Python Day"
 
 +++
 
-# Python day México
 
 ![PythoniDay](/images/fulls/python.png)
 
