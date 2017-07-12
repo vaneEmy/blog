@@ -30,7 +30,7 @@ paginate = 5
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "vanessa.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "Soy Vanessa. Me gusta la tecnología, el desarrollo de software y aprender."
+		bio = " ** Porque donde esté tu tesoro, allí estará también tu corazón **"
 		# The icons will be shown if you enter your username
 		twitter = "vane_emily"
 		github = "vaneEmy"
@@ -47,7 +47,7 @@ paginate = 5
 	[params.about]
 		hide  = false
 		title = "Acerca de mi"
-		content = "Este blog esta hecho para compartir un poco de mí, cosas que son de  mi interés y mis gustos con el cual busco que les  pueda beneficiar, ayudar o simplemente motivar. "
+		content = "<cite>Quien es feliz hace feliz a los demás - Ana Frank </cite> El propóosito de este blog es compartir un poco de las cosas que me gustan, con el objetivo de que en algún momento se puedan benefiar."
     #image = "fulls/collage.jpg"
 
 	[params.portfolio]
