@@ -30,7 +30,7 @@ paginate = 5
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "vanessa.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = " ** Porque donde esté tu tesoro, allí estará también tu corazón **"
+		bio = " ** Porque donde esté tu tesoro, ahí estará también tu corazón **"
 		# The icons will be shown if you enter your username
 		twitter = "vane_emily"
 		github = "vaneEmy"
