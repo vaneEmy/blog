@@ -7,23 +7,25 @@ title = "Python Day"
 +++
 
 
-![PythoniDay](/images/fulls/python.png)
+<img src="/images/fulls/python.png" alt="Python Day" style="width: 70%;">
 
->  Una playera muy chevere del evento
+>  Un recuerdo bonito del evento
 
 Hace unos días asistí al Python Day Mexico que se llevo a cabo en las instalaciones de Telmex Hub, Ciudad de México.
 
-Con anterioridad ya había asistido a algunos cursos que suelen ofrecer, así que ya más o menos conocía la logistica del lugar.
+Con anterioridad, había asistido a algunos cursos que suelen ofrecer, así que ya más o menos conocía la logistica del lugar.
 
-Sin embargo, esta vez todo fue muy diferente, desde que entre pude notar que había demasiada gente, que estaban escuchando una platica por streaming en inglés, los cuales varios estaban de pie, al lado, otros muy atentamente escribian código en un taller de Python. Instantes después, terminaron las charlas y los tallerespara proceder a dar un lunch.
+Sin embargo, esta vez todo fue muy diferente, desde que entré pude notar que había demasiada gente, de la cual la mayoría  estaba escuchando una platica por streaming en inglés, debido a la cantidad de gente en el lugar, una cantidad considerable de los asistetes estaban de pie, por otro lado, otros  escribian código en un taller de Python. Todo el mundo estaba muy adentrado en el tema.
+Instantes después, terminaron las charlas y los talleres para proceder a dar un lunch, en este momento aproveche para conocer el programa y todo lo que había aconrecido previamente a mi llegada, más que nada para atualizarme y no estar muy perdida.
 
-En cuanto termino el break que nos dieron, continuaron con el programa.
+En cuanto termino el break que nos dieron, re reanudaron las actividades.
 
-Apesar de que yo solo conozco cosas muy básicas sobre el lenguaje Python, y de que la mayoría de las charlas que se impartieron en el evento iban enfocadas a aquellas personas que estan muy adentrados en el tema, por consiguiente se  requería de  conocimientos más allá de los básicos, a mi me gusto mucho estar presente, pude notar como gente de otros países que han estado familiarizados con el lenguaje ya hace bastante tiempo, compartían sus conocimientos con nosotros, de todo lo que se puede lograr, de los multiples formas de aplicar lo que uno sabe para resolver problemas, y la suma de todas estas cosas, me ayudan a reafirmar que estoy en el área que  me emociona mucho, hay tanto porque aprender, tantas cosas geniales que se pueden realizar, aunque obviamente aún me falta un camino por recorrer y muchas cosas que se requieren para llegar a donde quiero.
+Apesar de que yo solo conozco cosas muy básicas sobre el lenguaje Python, y de que la mayoría de las charlas que se impartieron en el evento iban enfocadas a aquellas personas que estan ya familiarizados con el tema, por consiguiente, se  requería de  conocimientos más allá de los básicos. A pesar de estas circunstancias a mi me gusto mucho estar presente, pude notar como gente de otros países que han dedicandole ya bastante tiempo con Python, compartían sus conocimientos con nosotros, de ver todo lo que se puede lograr, de los multiples formas de aplicar lo que uno sabe para resolver problemas, escuchar a la gente que se expresaba de lo genial que es prgramar, la suma de todas estas cosas, me ayudan a reafirmar que estoy en el área que  me emociona mucho, hay tanto porque aprender, tantas cosas geniales que se pueden realizar, aunque obviamente aún me falta un camino por recorrer y muchas cosas que se requieren para llegar a donde quiero.
 
-Algunos de la charlas que me gusto mucho, fue que un chavo nos enseño a hacer un Twitter bot. :simple_smile:
+De igual manera, una  de la charlas que me gusto mucho, fue de un chavo que nos enseño a hacer un Twitter bot. Así que me gustaría compartir un poco de lo que realicé.
 
-## Mi primer twitter bot
+
+## Mi primer twitter bot &#9829;
 
 Los requisitos para hacer el primer bot:
 
@@ -48,9 +50,10 @@ Los requisitos para hacer el primer bot:
 
 >  Lo que yo hice, fue postear cada 3 segundos un estado y postear una imagen
 
-![Twitter Bot consola](/images/fulls/TwitterBot2.png)
+<img src="/images/fulls/TwitterBot2.png" alt="Coding of my first twitter code">
+
 
 >  Publicando en mi Twitter
->  Notese mi felicidad  :sparkles:
+>  Notese mi felicidad
 
-![Mi twitter con estados nuevos](/images/fulls/twitterBot2.png)
+<img src="/images/fulls/twitterBot2.png" alt="Muy first Twitter bot">
