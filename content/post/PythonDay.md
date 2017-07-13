@@ -1,4 +1,5 @@
 +++
+banner = "banners/"
 categories = ["Software memories"]
 date = "2017-07-11T23:50:11-05:00"
 tags = []
@@ -7,7 +8,7 @@ title = "Python Day"
 +++
 
 
-![PythoniDay](/images/fulls/python.png)
+<img src="/images/fulls/python.png" alt="PythoniDay" style="width:70%">
 
 >  Una playera muy chevere del evento
 
@@ -21,7 +22,7 @@ En cuanto termino el break que nos dieron, continuaron con el programa.
 
 Apesar de que yo solo conozco cosas muy básicas sobre el lenguaje Python, y de que la mayoría de las charlas que se impartieron en el evento iban enfocadas a aquellas personas que estan muy adentrados en el tema, por consiguiente se  requería de  conocimientos más allá de los básicos, a mi me gusto mucho estar presente, pude notar como gente de otros países que han estado familiarizados con el lenguaje ya hace bastante tiempo, compartían sus conocimientos con nosotros, de todo lo que se puede lograr, de los multiples formas de aplicar lo que uno sabe para resolver problemas, y la suma de todas estas cosas, me ayudan a reafirmar que estoy en el área que  me emociona mucho, hay tanto porque aprender, tantas cosas geniales que se pueden realizar, aunque obviamente aún me falta un camino por recorrer y muchas cosas que se requieren para llegar a donde quiero.
 
-Algunos de la charlas que me gusto mucho, fue que un chavo nos enseño a hacer un Twitter bot. :simple_smile:
+Algunos de la charlas que me gusto mucho, fue que un chavo nos enseño a hacer un Twitter bot.
 
 ## Mi primer twitter bot
 
@@ -51,6 +52,6 @@ Los requisitos para hacer el primer bot:
 ![Twitter Bot consola](/images/fulls/TwitterBot2.png)
 
 >  Publicando en mi Twitter
->  Notese mi felicidad  :sparkles:
+>  Notese mi felicidad
 
 ![Mi twitter con estados nuevos](/images/fulls/twitterBot2.png)

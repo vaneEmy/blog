@@ -138,3 +138,7 @@ paginate = 5
 	url  = "post/"
 	weight = 10
 
+[[menu.main]]
+	name = "Fotos"
+	url  = "post/"
+	weight = 10
