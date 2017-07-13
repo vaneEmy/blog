@@ -6,7 +6,7 @@ title = "Agile Open"
 
 +++
 
-
+<img src="/images/fulls/agile.png">
 
 Agile Open es el primer evento grande al que asistí por lo que realmente todo era nuevo para mi, no conocía la dinámica de cómo se llebaban a cabo las charlas y en  qué consistían las actividades.
 
@@ -17,6 +17,8 @@ Poco a poco, se hicieron participes y pasaron uno a uno, luego de pasar, se colo
 Al ser un evento tan grande, había aproximadamente 7 charlas al mismo tiempo. La mayoría de ellas eran de temas que no conocía ya que solo conocía poco de estas metodologías. De tantas platicas decidí empezar con aquellas que podrían ayudarme ya sea a entender un poco de las metodologías orientadas a este tipo de "escencia", por llamarlo así, así como en mi vida profesional y fuera de ésta.
 
 ### Como cambiar al mundo
+
+<img src="/images/fulls/agile2.jpg">
 
 La primera charla a la que entré, tenía un título que llamaba mucho mi atención.
 
@@ -40,6 +42,10 @@ La platica me parecio muy entretenida, hay algunas cosas que comparto con lo que
 
 
 ### Método de Grow para coaching
+
+
+
+<img src="/images/fulls/agile4.jpg">
 
 De manera breve, en ésta platica, el que llevaba la charla, recalcaba algo que es importante para mi: Las relaciones interpersonales.
 
