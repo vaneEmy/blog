@@ -60,13 +60,13 @@ theme = "hugo-freelancer-theme-master"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "I am Vanessa Emily, I love programming, painting, reading and skating. Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+        left = "I am Vanessa Emily, I love programming, painting, reading and skating. When I was studying at Vocacional 5, I did many projects  with my friends. Although, it took me time to see the results nevertheless, when I did it, was fantastic so, I decided that I wanted to create cool things, that is the reason why I studied Computer Engineering. I did my internship in CENAC during seven months where I learnt a lot. However, I consider myselft that I need to improve my skills, specially,  algorithms"
+        right = "Another thing that I like is that I am keen on Psichology, I would like to know more about it.<br/> The main purpose of writting in my blog is to share my memories, things that I am learning, since I wanna learn new things, all the things that I love in order to help someone. <br /> I will try to post in English."
 
-        [params.about.button]
-            text = "Download theme"
-            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
-            icon = "download"
+        #[params.about.button]
+        #    text = "Download theme"
+        #    link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
+        #    icon = "download"
 
 
     [params.contact]
