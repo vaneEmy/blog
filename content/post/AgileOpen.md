@@ -8,7 +8,7 @@ title = "Agile Open"
 
 <img src="/images/fulls/agile.png">
 
-Agile Open es el primer evento grande al que asistí por lo que realmente todo era nuevo para mi, no conocía la dinámica de cómo se llebaban a cabo las charlas y en  qué consistían las actividades.
+Agile Open es el primer evento grande al que asistí por lo que todo era nuevo para mi, no conocía la dinámica de cómo se llevaban a cabo las charlas y en  qué consistían las actividades.
 
 Al inicio del evento, cada persona que quería compartir sobre un tema ágil o quería saber algo en particular, tomaba una hoja, y lo escribía, pasaba al frente y platicaba brevemente su propuesta, los que no sabían y pedían ayuda, esperaban que alguien de los presentes se ofrecieran para  solucionar su inquietud o simplemente, dar una orientación.
 

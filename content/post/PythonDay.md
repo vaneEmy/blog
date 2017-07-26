@@ -1,4 +1,5 @@
 +++
+banner = "banners/"
 categories = ["Software memories"]
 date = "2017-07-11T23:50:11-05:00"
 tags = []

@@ -1,8 +1,8 @@
 # Site settings
-baseurl = "https://vaneemy.github.io/"
+baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Vanessa Emily"
-theme = "hugo-freelancer-theme-master"
+title = "Hugo Freelancer Theme"
+theme = "hugo-freelancer-theme"
 
 
 [params]
@@ -12,9 +12,10 @@ theme = "hugo-freelancer-theme-master"
 
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-    name = "Vanessa Emily"
-    description = "Vanessa Emily blog "
+    name = "Mr. Hugo"
+    description = "My awesome description"
 
+    # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
     # email. Visitors can send up to a 1000 emails each month for free.
     #
@@ -25,21 +26,21 @@ theme = "hugo-freelancer-theme-master"
     # - send a dummy email youself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    email = "vanvanemily@gmail.com"
+    email = "your@email.com"
 
     # Custom assets
 	custom_css = []
 	custom_js  = []
 
     [params.navigation]
-        brand = "Vanessa Emily's Portfolio"
+        brand = "Mr. Hugo's Portfolio"
 
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "vanessa.png"
-        name = "Vanessa Emily"
-        subtitle = "Computation - Painting - Reading - Psychology - Dancing - Skating"
+        image = "profile.png"
+        name = "Mr. Hugo"
+        subtitle = "Blogger - Programmer - Gopher"
 
 
     [params.portfolio]
@@ -117,7 +118,3 @@ theme = "hugo-freelancer-theme-master"
         [params.footer.credits]
             title = "About Freelancer"
             text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
-[[menu.main]]
-	name = "Fotos"
-	url  = "post/"
-	weight = 10
