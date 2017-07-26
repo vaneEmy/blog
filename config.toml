@@ -1,140 +1,120 @@
-#baseURL = "https://vaneemy.github.io"
-#languageCode = "en-us"
-#title = "Vanessa Emily"
-#theme = "hugo-strata-theme-master"
+# Site settings
 baseurl = "https://vaneemy.github.io/"
 languageCode = "en-us"
 title = "Vanessa Emily"
-theme = "hugo-strata-theme-master"
-#disqusShortname = "spf13"
-# Enable Google Analytics by inserting your tracking code
-googleAnalytics = "-102325967-1"
-# Define how many posts should appear on a site
-paginate = 5
+theme = "hugo-freelancer-theme-master"
+
 
 [params]
-	# To provide some metadata for search engines feel free to add a few
+
+    # You can use Markdown syntax for urls [text](//url.to/source) for
+    # most longer texts.
+
+    # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Vanessa Emily"
-	description = "Blog de Vanessa Emily"
+    name = "Vanessa Emily"
+    description = "Vanessa Emily blog "
 
-	# Format dates with Go's time formatting
-	date_format = "2006-01-02"
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email youself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    email = "vanvanemily@gmail.com"
 
-	# Add custom assets with their paths relative to the static folder
-	custom_js   = []
-	custom_css  = []
+    # Custom assets
+	custom_css = []
+	custom_js  = []
 
-
-	[params.sidebar]
-		# Replace the avatar with a picture of your own under static/images
-		avatar = "vanessa.jpg"
-		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "<cite>Be the change you want to see in the world</cite> By Mahatma Gandhi"
-		# The icons will be shown if you enter your username
-		twitter = "vane_emily"
-		github = "vaneEmy"
-		#gitlab = ""
-		#dribbble = ""
-		#facebook = ""
-		#googleplus = ""
-		#flickr = ""
-		#linkedin = ""
-
-		#copyright = "All rights reserved"
+    [params.navigation]
+        brand = "Vanessa Emily's Portfolio"
 
 
-	[params.about]
-		hide  = false
-		title = "Acerca de mi"
-		content = "Me encanta mucho mi carrera, la tecnología, aprender cosas nuevas, pintar, bailar, leer &#9829;  \n <cite>Quien es feliz hace feliz a los demás también - Ana Frank </cite> \nEl propóosito de este blog es compartir un poco de las cosas que me gustan, con el objetivo de que en algún momento se puedan beneficiar."
-    #image = "fulls/collage.jpg"
-
-	#[params.portfolio]
-	#	hide  = false
-	#	title = "Mi trabajo"
-
-		# The images and thumbnails are stored under static/images
-		# Create and change subfolders as you like
-	#	[[params.portfolio.gallery]]
-	#		image = "fulls/collage.jpg"
-	#		thumb = "thumbs/collage.jpg"
-	#		title = "Un poco de todo."
-	#		description = "Algunas cosas que me gustan"
-
-		#[[params.portfolio.gallery]]
-		#	image = "fulls/02.jpg"
-		#	thumb = "thumbs/02.jpg"
-		#	title = "Lorem ipsum dolor."
-		#	description = "Lorem ipsum dolor sit amet."
-
-		#[[params.portfolio.gallery]]
-		#	image = "fulls/03.jpg"
-		#	thumb = "thumbs/03.jpg"
-		#	title = "Lorem ipsum dolor."
-		#	description = "Lorem ipsum dolor sit amet."
-
-		#[[params.portfolio.gallery]]
-		#	image = "fulls/04.jpg"
-		#	thumb = "thumbs/04.jpg"
-		#	title = "Lorem ipsum dolor."
-		#	description = "Lorem ipsum dolor sit amet."
-
-		#[[params.portfolio.gallery]]
-		#	image = "fulls/05.jpg"
-		#	thumb = "thumbs/05.jpg"
-		#	title = "Lorem ipsum dolor."
-		#	description = "Lorem ipsum dolor sit amet."
-
-		#[[params.portfolio.gallery]]
-		#	image = "fulls/06.jpg"
-		#	thumb = "thumbs/06.jpg"
-		#	title = "Lorem ipsum dolor."
-		#	description = "Lorem ipsum dolor sit amet."
-
-	[params.recentposts]
-		hide  = false
-		title = "Post recientes"
-
-	[params.contact]
-		hide  = true
-		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
-
-	#	address = "Ciudad de Mexico, Mexico"
-
-		#phone = "000-000-0000"
-
-		# Since this template is static, the contact form uses www.formspree.io as a
-		# proxy. The form makes a POST request to their servers to send the actual
-		# email. Visitors can send up to a 1000 emails each month for free.
-	    #
-	    # What you need to do for the setup?
-	    #
-	    # - set your email address under 'email' below
-	    # - upload the generated site to your server
-	    # - send a dummy email yourself to confirm your account
-	    # - click the confirm link in the email from www.formspree.io
-	    # - you're done. Happy mailing!
-		#email = "hello@example.com"
-
-		#[params.contact.form]
-			# Set custom strings for the form if your native
-			# language isn't English
-			#name = "Name"
-			#email = "Email"
-			#message = "Message"
-			#submit = "Send message"
+    [params.header]
+        # Copy your own image into './static/img/'' if you wish
+        image = "vanessa.png"
+        name = "Vanessa Emily"
+        subtitle = "Computation - Painting - Reading - Psychology - Dancing - Skating"
 
 
-# Menu links that appear on the left sidebar
-[[menu.main]]
-	name = "Home"
-	url  = "/"
-	weight = 0
+    [params.portfolio]
+        # All projects defined in their own files. You can find example projects
+        # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
+        # at the root of this Hugo site.
+        # For more informtion take a look at the README.
+        title = "Portfolio"
 
-[[menu.main]]
-	name = "Blog"
-	url  = "post/"
-	weight = 10
+        [params.portfolio.modal]
+            client = "Client"
+            date = "Date"
+            category = "Category"
+            buttontext = "Close"
 
+
+    [params.about]
+        title = "About"
+        # The about text is splitted into a left and right column
+        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
+        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+
+        [params.about.button]
+            text = "Download theme"
+            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
+            icon = "download"
+
+
+    [params.contact]
+        title = "Contact"
+
+        # 'error' defines error messages for invalid inputs
+        [params.contact.form.name]
+            text = "Name"
+            error = "Please enter your name."
+
+        [params.contact.form.email]
+            text = "Email Address"
+            error = "Please enter your email address."
+
+        [params.contact.form.phone]
+            text = "Phone Number"
+            error = "Please enter your phone number."
+
+        [params.contact.form.message]
+            text = "Message"
+            error = "Please enter a message."
+
+        [params.contact.form.button]
+            text = "Send"
+
+
+    [params.footer]
+        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
+
+        [params.footer.location]
+            title = "Location"
+            # Postal address (add as many lines as necessary)
+            address = ["3481 Melrose Place", "Beverly Hills, CA 90210"]
+
+        [params.footer.social]
+            title = "Around the web"
+            # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+            # for more icons. The icons are represented by their corresponding
+            # CSS class.
+            [[params.footer.social.networks]]
+                icon = "fa-github"
+                link = "//github.com/spf13/hugo"
+
+            [[params.footer.social.networks]]
+                icon = "fa-stack-overflow"
+                link=  "//stackoverflow.com/questions/tagged/hugo"
+
+
+        [params.footer.credits]
+            title = "About Freelancer"
+            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
