@@ -92,14 +92,13 @@ theme = "hugo-freelancer-theme-master"
         [params.contact.form.button]
             text = "Send"
 
-
     [params.footer]
         copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
 
         [params.footer.location]
             title = "Location"
             # Postal address (add as many lines as necessary)
-            address = ["3481 Melrose Place", "Beverly Hills, CA 90210"]
+            address = ["Mexico City, Mexico"]
 
         [params.footer.social]
             title = "Around the web"
@@ -108,13 +107,13 @@ theme = "hugo-freelancer-theme-master"
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "//github.com/spf13/hugo"
+                link = "//github.com/vaneEmy"
 
             [[params.footer.social.networks]]
-                icon = "fa-stack-overflow"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
+                icon = "fa-twitter"
+                link=  "//twitter.com/Vane_Emily"
 
 
-        [params.footer.credits]
-            title = "About Freelancer"
-            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
+        #[params.footer.credits]
+        #    title = ""
+        #    text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
