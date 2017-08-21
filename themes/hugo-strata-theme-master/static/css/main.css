@@ -2490,7 +2490,7 @@
 		background-attachment: scroll,								fixed;
 		background-image: url("images/overlay.png"), url("../images/bg.jpg");
 		background-position: top left,							top left;
-		background: url(images/darks21.jpg);
+		background: url(images/landscape.jpg);
     background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
 		color: rgba(255, 255, 255, 0.5);
@@ -3168,7 +3168,7 @@
 
 	#sidebar ul li a,
 	#sidebar ul li a a:visited {
-		color: #a2a2a2;
+		color: #660022;
 		text-decoration: none;
 	}
 
