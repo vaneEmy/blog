@@ -1,23 +1,26 @@
-# Site settings
+#baseURL = "https://vaneemy.github.io"
+#languageCode = "en-us"
+#title = "Vanessa Emily"
+#theme = "hugo-strata-theme-master"
 baseurl = "https://vaneemy.github.io/"
 languageCode = "en-us"
 title = "Vanessa Emily"
-theme = "hugo-strata-theme-master"
-
+theme = "hugo-freelancer-theme-master"
+#disqusShortname = "spf13"
+# Enable Google Analytics by inserting your tracking code
+googleAnalytics = "-102325967-1"
+# Define how many posts should appear on a site
+paginate = 5
 
 [params]
-
-    # You can use Markdown syntax for urls [text](//url.to/source) for
-    # most longer texts.
-
-    # To provide some metadata for search engines feel free to add a few
+	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Vanessa Emily"
-	description = "Blog de Vanessa Emily"
+	description = "I am Vanessa Emily"
 
 	# Format dates with Go's time formatting
-	date_format = "2006-01-02"
-
+  #	date_format = "2006-01-02"
+  email= "vanvanemily@gmail.com"
 	# Add custom assets with their paths relative to the static folder
 	custom_js   = []
 	custom_css  = []
@@ -27,7 +30,7 @@ theme = "hugo-strata-theme-master"
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "vanessa.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "&#9829; Programming &#9829; Painting &#9829; Reading &#9829; Psychology &#9829;  Dancing &#9829; Skating &#9829; "
+		bio = "<cite>Be the change you want to see in the world</cite> By Mahatma Gandhi"
 		# The icons will be shown if you enter your username
 		twitter = "vane_emily"
 		github = "vaneEmy"
@@ -43,8 +46,8 @@ theme = "hugo-strata-theme-master"
 
 	[params.about]
 		hide  = false
-		title = "About me"
-		content = "I am Vanessa Emily, I love programming, painting, reading and skating.<br/><br/> When I was studying at Vocacional 5, I did many programming projects with my friends which took me time to see the results, when I did it, It was amazing so, I dediced that I wanted to create great things and also, new ones in order to help people, that is the main reason why I  continue studying Computer Engineering. <br/><br/> I gained valuable experience whilst doing my internship ar CENAC during seven months where I learnt a lot. However, I consider myself that I neew to improve my skills, specially in algorithms. <br/> Another thing that I like is that I am keen on Psicology, I would like to know more about it. <br/> The main purpose of writting in my blog is to share my experience and memories about these areas and sharing all the things that I am learning"
+		title = "Acerca de mi"
+		content = "Me encanta mucho mi carrera, la tecnología, aprender cosas nuevas, pintar, bailar, leer &#9829;  \n <cite>Quien es feliz hace feliz a los demás también - Ana Frank </cite> \nEl propóosito de este blog es compartir un poco de las cosas que me gustan, con el objetivo de que en algún momento se puedan beneficiar."
     #image = "fulls/collage.jpg"
 
 	#[params.portfolio]
@@ -132,11 +135,6 @@ theme = "hugo-strata-theme-master"
 
 [[menu.main]]
 	name = "Blog"
-	url  = "post/"
-	weight = 10
-
-[[menu.main]]
-	name = "Fotos"
 	url  = "post/"
 	weight = 10
 

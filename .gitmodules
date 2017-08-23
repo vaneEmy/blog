@@ -1,6 +1,3 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:vaneEmy/vaneEmy.github.io.git
-[submodule "vaneEmy.github.io"]
-	path = vaneEmy.github.io
-	url = git@github.com:vaneEmy/vaneEmy.github.io.git
+	url = https://github.com/vaneEmy/vaneEmy.github.io
