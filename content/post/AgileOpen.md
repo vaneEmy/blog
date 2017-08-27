@@ -6,7 +6,7 @@ title = "Agile Open"
 
 +++
 
-<img src="/images/fulls/agile.png">
+<img src="/images/fulls/agileOpenF.png">
 
 Agile Open es el primer evento grande al que asistí por lo que todo era nuevo para mi, no conocía la dinámica de cómo se llevaban a cabo las charlas y en  qué consistían las actividades.
 
@@ -45,7 +45,7 @@ La platica me parecio muy entretenida, hay algunas cosas que comparto con lo que
 
 
 
-<img src="/images/fulls/agile4.jpg">
+<img src="/images/fulls/agile3.jpg">
 
 De manera breve, en ésta platica, el que llevaba la charla, recalcaba algo que es importante para mi: Las relaciones interpersonales.
 

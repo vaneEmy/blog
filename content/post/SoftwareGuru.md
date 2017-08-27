@@ -6,7 +6,7 @@ title = "Software Guru"
 
 +++
 
-<img src="/images/fulls/sofwareGuru.png">
+<img src="/images/fulls/softwareGuru.png">
 
 Software guru fue un evento enfocado más que nada  a la parte tecnológica, todos los expositores son personas que saben mucho del tema del que hablan, son realmente buenos en lo que hacen.
 
@@ -31,4 +31,4 @@ Sé que me falta mucho para alcanzarlos y aunque hay varias cosas que debo de me
 
 El evento fue muy divertido
 
-<img src="/images/fulls/guru.png">
+<img src="/images/fulls/soft.png">
