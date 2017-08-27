@@ -44,7 +44,7 @@ theme = "hugo-strata-theme-master"
 	[params.about]
 		hide  = false
 		title = "About me"
-		content = "Firstly, I want to introduce myself. I am Vanessa Emily, I love programming, painting, reading and skating.<br/><br/> As I mention before, Programmign is one of my favourites activities and I would like to share you a summarize how all began. <br/>When I was studying at Vocacional 5, I did many programming projects with my friends which took me time to see the results, when I did it, It was amazing so, I dediced that I wanted to create great things and also, new ones in order to help people, that is the main reason why I  continue studying Computer Engineering. <br/><br/> I gained valuable experience whilst doing my internship ar CENAC during seven months where I learnt a lot. However, I consider myself that I neew to improve my skills, specially in algorithms. <br/> Another thing that I like is that I am keen on Psicology, I would like to know more about it. <br/> The main purpose of writting in my blog is to share my experience and memories about these areas and sharing all the things that I am learning"
+		content = "Firstly, I want to introduce myself. I am Vanessa Emily, I love programming, painting, reading and skating.<br/><br/> As I mentioned before, Programming is one of my favourites activities and I would like to summarize how all began. <br/>When I was studying at Vocacional 5, I did some projects with my friends, although it took me time to complete it. When I achieve it, it was amazing and I felt satisfied so, I decided that I wanted to create great things and also, new ones in order to help people, that is the main reason why I continue studying Computer Engineering. In addition, I gained valuable experience whilst doing my internship ar CENAC during seven months where I learnt a lot.<br/> <br/>Another thing is that I am keen on Psychology, I would love to know more about it.<br/><br/> The main purpose of writting in my blog is to share my experience and memories about these areas and sharing all the things that I am learning"
     #image = "fulls/collage.jpg"
 
 	#[params.portfolio]
@@ -136,7 +136,7 @@ theme = "hugo-strata-theme-master"
 	weight = 10
 
 [[menu.main]]
-	name = "Fotos"
+	name = "Gallery"
 	url  = "post/"
 	weight = 10
 
