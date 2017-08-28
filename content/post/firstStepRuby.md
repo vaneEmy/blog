@@ -18,3 +18,7 @@ I want to share how to create a web application with Ruby. Nevertheless, before 
 
 Depending upon your bash configuration, substitute <code> ~/.zshrc </code>
 
+2.
+3. **SINATRA** In our case we will use this gem
+  * <code> gem install sinatra </code>
+
