@@ -27,4 +27,12 @@ Depending upon your bash configuration, substitute <code> ~/.zshrc </code>
   <code>get '/frank-says' do</code><br/>
       <code>'Put this in your pipe & smoke it!' </code><br/>
   <code>end </code>
-- We can run our app, just typing in the terminal <code>ruby app.rb </code>
+- We can run our app, just typing in the terminal <code>ruby app.rb </code><br/><br/>
+- **bundler** provides an environment of Ruby projects by installing the exact gems and versions that are needed. Just run the following command <code>bundle init</code> and we start working. It's genereted a Gemfile file which contains a list of gems for use in your application. <br/><br/>
+- **Rake** is a Make-like program implemented in Ruby. <code>gem insall rake</code><br/>
+  <code>task default: %w[runapp] </code><br>
+  <code>task :runapp do</code><br>
+  <code>sh "bundle exec ruby app.rb" </code><br>
+  <code>end</code><br/>
+  To run app just type In the terminal <code>rake</code>
+-
