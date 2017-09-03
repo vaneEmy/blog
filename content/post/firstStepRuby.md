@@ -6,7 +6,7 @@ tags = []
 
 +++
 
-I want to share how to create a web application with Ruby. Nevertheless, before we can start to create our amazing project, we require the following dependencies.... So, lets start with our recipe book!
+I want to share how to create a web application with Ruby. Nevertheless, before we can start to create our amazing project, We require rbenv and Sinatra gem .... So, let's start with our recipe book!
 
 ###  Installation
 1.  **rbenv** Help us management of multiply Ruby environments. In our terminal, run the following commands
@@ -18,7 +18,13 @@ I want to share how to create a web application with Ruby. Nevertheless, before 
 
 Depending upon your bash configuration, substitute <code> ~/.zshrc </code>
 
-2.
-3. **SINATRA** In our case we will use this gem
+2. **SINATRA**  focuses on "quickly creating web-applications" in Ruby with minimal effort
   * <code> gem install sinatra </code>
 
+### Cookbook
+- Creating a ruby file called app.rb,  we copy the code from sinatra website's doc <br/>
+  <code> require 'sinatra' </code><br/>
+  <code>get '/frank-says' do</code><br/>
+      <code>'Put this in your pipe & smoke it!' </code><br/>
+  <code>end </code>
+- We can run our app, just typing in the terminal <code>ruby app.rb </code>
