@@ -29,10 +29,25 @@ Depending upon your bash configuration, substitute <code> ~/.zshrc </code>
   <code>end </code>
 - We can run our app, just typing in the terminal <code>ruby app.rb </code><br/><br/>
 - **bundler** provides an environment of Ruby projects by installing the exact gems and versions that are needed. Just run the following command <code>bundle init</code> and we start working. It's genereted a Gemfile file which contains a list of gems for use in your application. <br/><br/>
-- **Rake** is a Make-like program implemented in Ruby. <code>gem insall rake</code><br/>
-  <code>task default: %w[runapp] </code><br>
-  <code>task :runapp do</code><br>
-  <code>sh "bundle exec ruby app.rb" </code><br>
-  <code>end</code><br/>
-  To run app just type In the terminal <code>rake</code>
--
+- **Rake** is a Make-like program implemented in Ruby. <code>gem insall rake</code>
+ <div style="background:#f8f8f8;">
+    <pre>
+      <span style="color: #A2F; font-weight: bold;"> task </span><span style="color: #00F">default: </span> <span style="color: #b44">%w[runapp]</span>
+        <span style="color: #A2F; font-weight: bold;">task </span> <span style="color: #c00">:runapp </span><span style="color: #a2f; font-weight: bold;">do</span>
+          <span style="color: #000 ">sh</span> <span style="color: #b44">"bundle exec ruby app.rb"</span>
+        <span style="color: #a2f; font-weight: bold;"> end </span>
+    </pre>
+ </div>
+  To run app just type In the terminal <code>rake</code><br/>
+- Now! We are going to create our view in ruby with erb extension within views directory
+- **Routes** In Sinatra, a route is an HTTP method, each route is associated with a block
+
+ <div style="background:#f8f8f8;">
+  <pre>
+  <span style="color: #a2f; font-weight: bold;">get </span><span style="color: #00f; font-weight: bold;"> '/' </span><span style="color: #a2f; font-weight: bold;">do </span>
+     <span style="color: #a2f; font-weight: bold;">erb </span> <span style="color: #c00;">:index </span>
+  <span style="color: #a2f; font-weight: bold;">end</span>
+ </pre>
+</div>
+- **MySQL** Installing mysql gem to connect our app to data base <code style""> gem install mysql2</code>
+
