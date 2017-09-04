@@ -50,4 +50,3 @@ Depending upon your bash configuration, substitute <code> ~/.zshrc </code>
  </pre>
 </div>
 - **MySQL** Installing mysql gem to connect our app to data base <code style""> gem install mysql2</code>
-
