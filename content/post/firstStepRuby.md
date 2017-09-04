@@ -6,7 +6,7 @@ tags = []
 
 +++
 
-I want to share how to create a web application with Ruby. Nevertheless, before we can start to create our amazing project, We require rbenv and Sinatra gem .... So, let's start with our recipe book!
+I want to share how to create a easy web application with Ruby and Sinatra. Nevertheless, before we can start to create our amazing project, We require rbenv and, of course, Sinatra gem .... So, let's start with our recipe book!
 
 ###  Installation
 1.  **rbenv** Help us management of multiply Ruby environments. In our terminal, run the following commands
@@ -23,13 +23,20 @@ Depending upon your bash configuration, substitute <code> ~/.zshrc </code>
 
 ### Cookbook
 - Creating a ruby file called app.rb,  we copy the code from sinatra website's doc <br/>
-  <code> require 'sinatra' </code><br/>
-  <code>get '/frank-says' do</code><br/>
-      <code>'Put this in your pipe & smoke it!' </code><br/>
-  <code>end </code>
-- We can run our app, just typing in the terminal <code>ruby app.rb </code><br/><br/>
-- **bundler** provides an environment of Ruby projects by installing the exact gems and versions that are needed. Just run the following command <code>bundle init</code> and we start working. It's genereted a Gemfile file which contains a list of gems for use in your application. <br/><br/>
-- **Rake** is a Make-like program implemented in Ruby. <code>gem insall rake</code>
+  <div style="background: #f8f8f8;">
+    <pre>
+      <span style="color:#a2f; font-weight: bold;"> require</span> <span style="color: #00f">'sinatra'</span>
+      <span style="color: #a2f; font-weight: bold;" >get </span> <span style="color: #000">'/frank-says'</span> <span style="color: #a2f; font-weight: bold;">do</span>
+        <span style="color: #b44">'Put this in your pipe & smoke it!'</span>
+       <span style="color:#a2f; font-weight: bold;">end</span>
+    </pre>
+  </div>
+
+  We can run our app, just typing in the terminal <code>ruby app.rb </code>
+   To visualize our message, in a browser we direct to localhost, 4567 port!
+
+- **bundler** provides an environment of Ruby projects by installing the exact gems and versions that are needed. Just run the following command <code>bundle init</code> and we start working. It's genereted a Gemfile file which contains a list of gems for use in our application. <br/><br/>
+- **Rake** is a Make-like program implemented in Ruby. <code>gem insall rake</code> And in rakefile, I want to run my app just typing <code>rake</code> in the terminal so, I defined the following task:
  <div style="background:#f8f8f8;">
     <pre>
       <span style="color: #A2F; font-weight: bold;"> task </span><span style="color: #00F">default: </span> <span style="color: #b44">%w[runapp]</span>
@@ -38,9 +45,8 @@ Depending upon your bash configuration, substitute <code> ~/.zshrc </code>
         <span style="color: #a2f; font-weight: bold;"> end </span>
     </pre>
  </div>
-  To run app just type In the terminal <code>rake</code><br/>
 - Now! We are going to create our view in ruby with erb extension within views directory
-- **Routes** In Sinatra, a route is an HTTP method, each route is associated with a block
+- **Routes** In Sinatra, a route is an HTTP method, each route is associated with a block. In app.rb file, I want that in the root '/' it is shown my index view.
 
  <div style="background:#f8f8f8;">
   <pre>
