@@ -2,7 +2,7 @@
 date = "2017-08-27T23:52:21-05:00"
 title = "My baby steps with Ruby"
 categories = ["Programming"]
-tags = []
+tags = ["Programming", "Ruby", "Sinatra"]
 
 +++
 
