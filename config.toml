@@ -2,140 +2,155 @@
 baseurl = "https://vaneemy.github.io/"
 languageCode = "en-us"
 title = "Vanessa Emily"
-theme = "hugo-strata-theme-master"
+theme = "hugo-universal-theme"
+themesDir = "themes/"
+defaultContentLanguage = "en"
+disqusShortname = "vanemyl"
 googleAnalytics = "UA-102325967-1"
 
+
+# Define the number of posts per page
+paginate = 10
+
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 2
+
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "GitHub"
+    url = "https://github.com/vaneEmy"
+    pre = "<i class='fa fa-2x fa-github'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Facebook"
+    url = "http://facebook.com"
+    pre = "<i class='fa fa-2x fa-facebook'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Twitter"
+    url = "https://twitter.com/Vane_Emily"
+    pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "Email"
+    url = "mailto:your@email.com"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
+
 [params]
-    # You can use Markdown syntax for urls [text](//url.to/source) for
-    # most longer texts.
+    viewMorePostLink = "/blog/"
+    author = "Vanessa Emily"
+    defaultKeywords = ["devows", "hugo", "go"]
+    defaultDescription = "Site template made by devcows using hugo"
 
-    # To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
-	name = "Vanessa Emily"
-	description = "Vanessa Emily's blog"
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
-	# Format dates with Go's time formatting
-	date_format = "2006-01-02"
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "violet"
 
-	# Add custom assets with their paths relative to the static folder
-	custom_js   = []
-	custom_css  = []
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "your@email.com"
 
+    about_us = "<p>I am Vanessa Emily, I love programming, painting, reading and skating.</p>"
+    copyright = "Copyright (c) 2018. Vanessa Emily; all rights reserved"
 
-	[params.sidebar]
-		# Replace the avatar with a picture of your own under static/images
-		avatar = "vanessa.jpg"
-		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "&#9829; Programming &#9829; Painting &#9829; Reading &#9829; Psychology &#9829;  Dancing &#9829; Skating &#9829; "
-		# The icons will be shown if you enter your username
-		twitter = "vane_emily"
-		github = "vaneEmy"
-		#gitlab = ""
-		#dribbble = ""
-		#facebook = ""
-		#googleplus = ""
-		#flickr = ""
-		#linkedin = ""
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
 
-		#copyright = "All rights reserved"
+    logo = ""
+    address = """<p><strong>Mexico city</strong>
+        <br>Ciudad Nezahualcoyotl
+        <br>Estado de México
+        <strong>Mexico</strong>
+      </p>
+      """
+    latitude = "19.39068"
+    longitude = "-99.2837001"
 
+[Permalinks]
+    blog = "/post/:filename/"
 
-	[params.about]
-		hide  = false
-		title = "About me"
-		content = "Firstly, I want to introduce myself. I am Vanessa Emily, I love programming, painting, reading and skating.<br/><br/> As I mentioned before, Programming is one of my favourites activities and I would like to summarize how all began. <br/>When I was studying at Vocacional 5, I did some projects with my friends, although it took me time to complete it. When I achieve it, it was amazing and I felt satisfied so, I decided that I wanted to create great things and also, new ones in order to help people, that is the main reason why I continue studying Computer Engineering. In addition, I gained valuable experience whilst doing my internship at CENAC during seven months where I learnt a lot.<br/> <br/>Another thing is that I am keen on Psychology, I would love to know more about it.<br/><br/> The main purpose of writting in my blog is to share my experience and memories about these areas and sharing all the things that I am learning."
-    #image = "fulls/collage.jpg"
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """<p class="hidden-sm hidden-xs"></p>
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
+      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+      </p>
+      """
 
-	#[params.portfolio]
-	#	hide  = false
-	#	title = "Mi trabajo"
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
 
-		# The images and thumbnails are stored under static/images
-		# Create and change subfolders as you like
-	#	[[params.portfolio.gallery]]
-	#		image = "fulls/collage.jpg"
-	#		thumb = "thumbs/collage.jpg"
-	#		title = "Un poco de todo."
-	#		description = "Algunas cosas que me gustan"
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
 
-		#[[params.portfolio.gallery]]
-		#	image = "fulls/02.jpg"
-		#	thumb = "thumbs/02.jpg"
-		#	title = "Lorem ipsum dolor."
-		#	description = "Lorem ipsum dolor sit amet."
+[params.features]
+    enable = false
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
 
-		#[[params.portfolio.gallery]]
-		#	image = "fulls/03.jpg"
-		#	thumb = "thumbs/03.jpg"
-		#	title = "Lorem ipsum dolor."
-		#	description = "Lorem ipsum dolor sit amet."
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
-		#[[params.portfolio.gallery]]
-		#	image = "fulls/04.jpg"
-		#	thumb = "thumbs/04.jpg"
-		#	title = "Lorem ipsum dolor."
-		#	description = "Lorem ipsum dolor sit amet."
+[params.see_more]
+    enable = false
+    icon = "fa fa-file-code-o"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
 
-		#[[params.portfolio.gallery]]
-		#	image = "fulls/05.jpg"
-		#	thumb = "thumbs/05.jpg"
-		#	title = "Lorem ipsum dolor."
-		#	description = "Lorem ipsum dolor sit amet."
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
 
-		#[[params.portfolio.gallery]]
-		#	image = "fulls/06.jpg"
-		#	thumb = "thumbs/06.jpg"
-		#	title = "Lorem ipsum dolor."
-		#	description = "Lorem ipsum dolor sit amet."
-
-	[params.recentposts]
-		hide  = false
-		title = "Post recientes"
-
-	[params.contact]
-		hide  = true
-		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
-
-	#	address = "Ciudad de Mexico, Mexico"
-
-		#phone = "000-000-0000"
-
-		# Since this template is static, the contact form uses www.formspree.io as a
-		# proxy. The form makes a POST request to their servers to send the actual
-		# email. Visitors can send up to a 1000 emails each month for free.
-	    #
-	    # What you need to do for the setup?
-	    #
-	    # - set your email address under 'email' below
-	    # - upload the generated site to your server
-	    # - send a dummy email yourself to confirm your account
-	    # - click the confirm link in the email from www.formspree.io
-	    # - you're done. Happy mailing!
-		#email = "hello@example.com"
-
-		#[params.contact.form]
-			# Set custom strings for the form if your native
-			# language isn't English
-			#name = "Name"
-			#email = "Email"
-			#message = "Message"
-			#submit = "Send message"
-
-
-# Menu links that appear on the left sidebar
-[[menu.main]]
-	name = "Home"
-	url  = "/"
-	weight = 0
-
-[[menu.main]]
-	name = "Blog"
-	url  = "post/"
-	weight = 10
-
-[[menu.main]]
-	name = "Gallery"
-	url  = "post/"
-	weight = 10
-
+[params.recent_posts]
+    enable = true
+    title = "From my blog"
+    subtitle = "The main purpose of writting in my blog is to share my experience, all the things that I am learning that are related to programming or desing and of course practicing my English skills."
