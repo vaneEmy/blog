@@ -2,69 +2,81 @@
 title = "Desarrollo gacela"
 categories = ["agile"]
 date = "2017-07-12T22:17:22-05:00"
-tags = []
-banner = ""
+tags = ["Agile", "SCRUM", "Mexico"]
+banner = "img/banners/AgilePost.jpg"
 +++
 
-Agile Open es el primer evento de Agilidad al que asistí y pues he de decir, que todo era nuevo para mi.
+![Agile Open](../../img/post/agile_open/agile1.png)
 
-Pero, ¿Qué es Ágil?
+Agile Open es el primer evento Ágil al que asistí y sobra decir que, todo era nuevo para mi.
 
-La dinámica del evento consistio, en establecer la agenda donde cada persona que quería compartir lo qué es ágil o quería saber algo en particular, tomaba una hoja, lo escribía, platicaba brevemente su idea, pasaba al frente de todos de esta manera se hizo el programa del día
+Pero, primero, ¿Qué es Ágil? Según Wikipedia.
 
-Poco a poco, se hicieron participes y pasaron uno a uno, luego de pasar, se colocaban las hojas en una pizarra hecha de papel, donde se especificaban los horarios de las platicas sobre los temas propuestos. De esta manera se armo el programa del día.
+> Este modelo de desarrollo, que no es más que un conjunto de tareas agrupadas en pequeñas etapas repetitivas (iteraciones)
+
+La dinámica del evento consistio, en establecer la agenda, donde cada persona que quería compartir  qué es ágil o quería saber algo en particular, tomaba una hoja, lo escribía, platicaba brevemente su idea, pasaba al frente de todos. De esta manera se hizo el programa del día
+
+Poco a poco, se hicieron participes y pasaron uno a uno, al terminar, se colocaban las hojas en una pizarra hecha de papel, donde se especificaban los horarios de las platicas sobre los temas propuestos. De esta manera se armo el programa del día.
 
 Al ser un evento tan grande, había aproximadamente cómo siete charlas simultaneamente. Así que decidí comenzar con aquellas que despertaron mi interés. 
 
 ### Como cambiar al mundo
 
+![Agile Open](../../img/post/agile_open/agile2.jpg)
 
+El objetivo era: Tomar medidas para cambiar una situación que te desagrada. 
 
-La primera charla a la que entré, tenía un título que llamaba mucho mi atención.
-
-El chavo que impartio la actividad, comentaba algunos pasos a seguir para cambiar aquello que te produce algún tipo de conflicto y quieres que sea de manera diferente o mejor.
-Los pasos que describio precisamente no son a seguir, ni que sino se siguen a pie de la letra, no se logrará lo que esperamos, más bien, son recomendaciones por el autor del libro del mismo título.
-
-De manera simple, explicaba que en varias ocasiones nos gustaría mejorar algunas situación, llevarnos mejor con alguien, cambiar el ambiente en que nos desenvolvemos, mejorar la comunicación con alguna persona, etc. Sin importar, la situación, mencionaba que podíamos hacer varias cosas:
+El chavo quien impartio la platica, de manera simple, explicaba que en ocasiones, nos gustaría mejorar algunas situaciones tanto en nuestra vida personal como laboral, ya sea llevarnos mejor con alguien, cambiar el ambiente en que nos desenvolvemos, mejorar la comunicación con alguna persona, etc,las cosas que podíamos hacer podían ser: 
 
 1. Dejar las cosas así
 2. Evitarlas
 3. Hacer algo
 
-Lo que se enfocaba la charla era en el punto tres, tomar acción de la situación, así que recomendaba:
+Prácticamente la charla se enfocaba en el punto tres, que era:
 
-*  Tomar nota de las cosas que suceden por lo que consideramos no nos agrada
-*  De acuerdo a todas cosas que listamos como "negativas" hacer otra lista pero, que ayude a solucionar el problema ejemplo: Mi problema es de comunicación con mi amiga, una solución es empezar a escucharla más invitandola a que pasemos más tiempo.
-*  A partir de lo que tenemos planeado, empezar a llevar a cabo la estrategía, si quiero mejorar la comunicación, empezaré por mandarle mensajes a mi amiga, no tan seguidos pero, paso a paso.
-*  En caso de que quisieramos cambiar un entorno en donde se ve involucrada mucha gente, recomendaba que iniciaramos con aquellas personas que tienden a compartir algunas ideas con nosotros para que posteriormente, podamos mejorar relaciones interpersonales con otras peersonas que nos llevaría más tiempo cambiar algo.
+*  Tomar nota de las cosas que no nos agrada. Ejemplo: Tengo problemas con mi mejor amiga.
 
-La platica me parecio muy entretenida, hay algunas cosas que comparto con lo que mencionaba el chavo. Sin embargo, para mi, es parte importante que si quiero ser ése cambio, debo de empezar a ver lo qué yo hago y ser ése cambio. Antes de pretender pedir, dar.
+*  De acuerdo a las notas que tomamos, hacemos otra lista pero, que esta va a enfocada a solucionar la primera. Siguiendo con el ejemplo:  Mi solución es empezar a escuchar más a mi amiga.
+
+*  A partir de lo que tenemos planeado, empezar a llevar a cabo la estrategía. Siguiendo con el ejemplo: Si quiero mejorar la comunicación, empezaré por mandarle mensajes a mi amiga, saliendo más con ella.
+
+En caso de que quisieramos cambiar un entorno en donde se ve involucrada mucha gente, recomendaba que iniciaramos con aquellas personas que tienden a compartir algunas ideas con nosotros, para que posteriormente, mejoraremos las relaciones interpersonales con aquellas  personas que nos llevaría más tiempo nuestro objetivo.
+
+La platica me parecio muy entretenida e interesante ya que   si quiero un cambio, debo de empezar a hacerlo yo misma. 
 
 
 ### Método de Grow para coaching
 
-De manera breve, en ésta platica, el que llevaba la charla, recalcaba algo que es importante para mi: Las relaciones interpersonales.
+![Agile Open](../../img/post/agile_open/agile3.jpg)
 
-Considero que en muchas ocasiones estamos tan ocupados que perdemos de vista mantener relaciones con nuestros amigos, pareja, familiares y el trabajo. Aunque la charla estaba más orientada al ámbito laboral, todo éso se puede aplicar a cualquier situación.
+Objetivo: Mejorar las relaciones interpersonales en el ámbito laboral.
 
-El ser una persona que guie a las personas, abrir posibilidades, ayudar a los demás y así mismo ayudarse.
+La charla estaba más enfocada en ser una guía para las personas con quien laboramos, abrir posibilidades, ayudar a los demás por medio de una comunicación más personal y así mismo poder ayudarnos.
+
+Considero que se puede aplicar a cualquier situación pues en ocasiones perdemos de vista las relaciones que tenemos.  
 
 ### Cultura ágil
 
-Uno de mis compañeros dio la charla de cultura ágil, él mencionaba varios puntos importantes que quiero recalcar y que comparto:
+Objetivo: Mejorar el ambiente laborar. 
 
-* Valores:  La forma en cómo afectan nuestro, el ser una persona responsable, comprometida, honesta puede afectar a los demás. Pues, en varias ocasiones la gente solo ve por sus intereses, no esta mal pero, llega a perjudicar a otros y más si van en el mismo barco, afectar a alguien, indudablemente afectará el trayecto de uno.
+Uno de mis compañeros fue quien impartio la platica, él mencionó varios puntos y quiero compartir aquellos que me son más imporatentes:
 
-* Conocimiento: Algo que me ha agradado de la platica es que el una persona debe de estar en constante aprendizaje, actualizarse. Hay varias cosas que antes no consideraba importante aparender pero, el día de hoy me doy cuenta que es de vital importancia conocerlo.
+* Valores:  Cómo afecta nuestros valores a  las personas con quienes trabajamos. El ser una persona responsable, comprometida, honesta, etc, indudablemente podrá beneficiar o no a la gente de nuestro alrededor ya que en ocasiones la gente solo ve por sus intereses, no es que este mal pero, puede llegar a perjudicar a otros.
 
-* Hay otro punto que entendí y que me llevo de la platica, me recuerda a esta frase: <cite>Si caminas solo, irás más rápido, si caminas acompañado llegarás más lejos.</cite>  Esta frase me gusta mucho, el cómo lo que compartimos y damos muchas veces, es reciproco.
+* Conocimiento: El estar aprendiendo constantemente. Hay varias cosas que antes no consideraba importante saber pero, el día de hoy me doy cuenta que es de vital importancia, siempre hay algo nuevo. 
 
+> Si caminas solo, irás más rápido, si caminas acompañado llegarás más lejos. 
 
 ### Facilitación gráfica
 
-Una de las últimas charlas a las que asistí fue a la de falicitación gráfica, esta me parecio muy chistosa jajaa. Ya que el chavo que esta en frente nos contó una historia un poco divertida con dibujos, nos invito a contar la nuestra con nuestros dibujos.
+Objetivo: Mejorar la comunicación con el cliente a través de facilitaciones gráficas.
 
-Mi historia tenía un final feliz, por llamarlo de una manera. Aunque no terminé de dibujarla, el hecho de hacerlo ayudaba a que la mayoría comprendiera de manera más fácil algunas cosas.
+La facilitación gráfica es sobre contar  historias con dibujos simples pero, entendibles, esto con el propósito de hacer llegar un mensaje sobre un problema, una necesidad, un requerimiento de manera más clara.
 
-Para comer, nos dieron pizza, a mi me gusto mucho la experiencia, realmeten sentí que el tiempo pasaba tana rápido, conocí un poco más de ágil y sobre todo, cómo aplicarlo a mi vida para mejorar. &#9829;
+Esta charla me parecio muy divertida ya que era más dinámica, cada quién debía de elaborar su facilitación gráfica y algunos nos compartieron sus historias, cuando eso pasaba, se nos hacía más fácil entender el problema de la persona que nos contaba su experiencia y a la vez saber realmente cuál había sido su posible problema, cómo podíamos mejorarlo o simplemente, saber cómo se sentía la persona con lo que nos contaba. 
+
+
+### Conclusión
+
+Me encanto la experiencia de conocer nuevas cosas sobre Ágile en un evento tan grande como el Agile Open. Lo que compartí es algo de lo que yo sé que me puede ayudar en mi carrera y para crecer como persona. Sin olvidar que el conocer a gente nueva con nuevas ideas es algo que nos brindan estos eventos.
 
