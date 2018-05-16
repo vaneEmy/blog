@@ -22,7 +22,7 @@ Al ser un evento tan grande, había aproximadamente cómo siete charlas simultan
 
 ### Como cambiar al mundo
 
-![Agile Open](../../img/post/agile_open/agile2.jpg)
+![Agile Open - Como cambiar al mundo](../../img/post/agile_open/agile2.jpg)
 
 El objetivo era: Tomar medidas para cambiar una situación que te desagrada. 
 
@@ -47,7 +47,7 @@ La platica me parecio muy entretenida e interesante ya que   si quiero un cambio
 
 ### Método de Grow para coaching
 
-![Agile Open](../../img/post/agile_open/agile3.jpg)
+![Agile Open - Metodo de Grow para coaching](../../img/post/agile_open/agile3.jpg)
 
 Objetivo: Mejorar las relaciones interpersonales en el ámbito laboral.
 
