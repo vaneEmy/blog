@@ -136,4 +136,4 @@ paginate = 5
 [params.recent_posts]
     enable = true
     title = "From my blog"
-    subtitle = "I am Vanessa Emily, I love drawing and programming. The main purpose of writing in my blog is to share my experience in technology world, all the things that I am learning  and of course, for practicing my English skills. I hope you can find it interesting and enjoyable to read."
+    subtitle = "I am Vanessa Emily, I love drawing and programming. The main purpose of writing in my blog is to share my experience in technology world, all the things that I am learning  and of course, to practicing my English skills. I hope you can find it interesting and enjoyable to read."
