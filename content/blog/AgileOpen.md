@@ -14,9 +14,9 @@ Pero, primero, ¿Qué es Ágil? Según Wikipedia.
 
 > Este modelo de desarrollo, que no es más que un conjunto de tareas agrupadas en pequeñas etapas repetitivas (iteraciones)
 
-La dinámica del evento consistio, en establecer la agenda, donde cada persona que quería compartir  qué es ágil o quería saber algo en particular, tomaba una hoja, lo escribía, platicaba brevemente su idea, pasaba al frente de todos. De esta manera se hizo el programa del día
+La dinámica del evento consistio, en establecer la agenda, donde cada persona que quería compartir  qué es ágil o quería saber algo en particular, tomaba una hoja, lo escribía, platicaba brevemente su idea, pasaba al frente de todos. De esta manera, se hizo el programa del día
 
-Poco a poco, se hicieron participes y pasaron uno a uno, al terminar, se colocaban las hojas en una pizarra hecha de papel, donde se especificaban los horarios de las platicas sobre los temas propuestos. De esta manera se armo el programa del día.
+Poco a poco, se hicieron participes y pasaron uno a uno, al terminar, se colocaban las hojas en una pizarra hecha de papel, donde se especificaban los horarios de las platicas sobre los temas propuestos. Con esto, ya teníamos el programa del día.
 
 Al ser un evento tan grande, había aproximadamente cómo siete charlas simultaneamente. Así que decidí comenzar con aquellas que despertaron mi interés. 
 
@@ -24,9 +24,9 @@ Al ser un evento tan grande, había aproximadamente cómo siete charlas simultan
 
 ![Agile Open - Como cambiar al mundo](../../img/post/agile_open/agile2.jpg)
 
-El objetivo era: Tomar medidas para cambiar una situación que te desagrada. 
+**El objetivo:** Tomar medidas para cambiar una situación que te desagrada. 
 
-El chavo quien impartio la platica, de manera simple, explicaba que en ocasiones, nos gustaría mejorar algunas situaciones tanto en nuestra vida personal como laboral, ya sea llevarnos mejor con alguien, cambiar el ambiente en que nos desenvolvemos, mejorar la comunicación con alguna persona, etc,las cosas que podíamos hacer podían ser: 
+El chavo quien impartio la platica, de manera simple, explicaba que en ocasiones, nos gustaría mejorar nuestras relaciones con los demás tanto en nuestra vida personal como laboral, ya sea llevarnos mejor con alguien, cambiar el ambiente en que nos desenvolvemos, mejorar la comunicación con alguna persona, etc, las cosas que podíamos hacer podían ser: 
 
 1. Dejar las cosas así
 2. Evitarlas
@@ -49,7 +49,7 @@ La platica me parecio muy entretenida e interesante ya que   si quiero un cambio
 
 ![Agile Open - Metodo de Grow para coaching](../../img/post/agile_open/agile3.jpg)
 
-Objetivo: Mejorar las relaciones interpersonales en el ámbito laboral.
+**Objetivo:** Mejorar las relaciones interpersonales en el ámbito laboral.
 
 La charla estaba más enfocada en ser una guía para las personas con quien laboramos, abrir posibilidades, ayudar a los demás por medio de una comunicación más personal y así mismo poder ayudarnos.
 
@@ -57,7 +57,7 @@ Considero que se puede aplicar a cualquier situación pues en ocasiones perdemos
 
 ### Cultura ágil
 
-Objetivo: Mejorar el ambiente laborar. 
+**Objetivo:** Mejorar el ambiente laborar. 
 
 Uno de mis compañeros fue quien impartio la platica, él mencionó varios puntos y quiero compartir aquellos que me son más imporatentes:
 
@@ -69,7 +69,7 @@ Uno de mis compañeros fue quien impartio la platica, él mencionó varios punto
 
 ### Facilitación gráfica
 
-Objetivo: Mejorar la comunicación con el cliente a través de facilitaciones gráficas.
+**Objetivo:** Mejorar la comunicación con el cliente a través de facilitaciones gráficas.
 
 La facilitación gráfica es sobre contar  historias con dibujos simples pero, entendibles, esto con el propósito de hacer llegar un mensaje sobre un problema, una necesidad, un requerimiento de manera más clara.
 
