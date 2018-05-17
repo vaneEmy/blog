@@ -2,17 +2,19 @@
 title = "Desarrollo gacela"
 categories = ["agile"]
 date = "2017-07-12T22:17:22-05:00"
-tags = ["Agile", "SCRUM", "Mexico"]
+tags = ["Agile",  "Development"]
 banner = "img/banners/AgilePost.jpg"
 +++
 
 ![Agile Open](../../img/post/agile_open/agile1.png)
 
-Agile Open es el primer evento Ágil al que asistí y sobra decir que, todo era nuevo para mi.
-
-Pero, primero, ¿Qué es Ágil? Según Wikipedia.
+¿Ágil? ¿Qué es Ágil? Según Wikipedia.
 
 > Este modelo de desarrollo, que no es más que un conjunto de tareas agrupadas en pequeñas etapas repetitivas (iteraciones)
+
+A grandes rasgos, simplemente es una forma de administrar equipos y proyectos de desarrollo en IT. Donde los usuarios (clientes) tienen un papel importante, ya que estan activamente involucrados en el desarrollo, con el fin de entender la visión y el alcance que el cliente desea, todos estos requerimientos son recolectamos por medio de diferentes maneras: mockups, user stories (es una declaración escrita desde la perspectiva del usuario que se enfoca en el ¿Qué? ¿Por qué? y ¿Quién?)  teniendo las historias de usuario, éstas pueden ser divididas en pequeños incrementos. 
+
+Agile Open es el primer evento Ágil al que asistí y sobra decir que, todo era nuevo para mi.
 
 La dinámica del evento consistio, en establecer la agenda, donde cada persona que quería compartir  qué es ágil o quería saber algo en particular, tomaba una hoja, lo escribía, platicaba brevemente su idea, pasaba al frente de todos. De esta manera, se hizo el programa del día
 
