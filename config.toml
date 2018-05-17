@@ -41,6 +41,12 @@ paginate = 5
     url = "https://twitter.com/Vane_Emily"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
+[[menu.topbar]]
+    weight = 3
+    name = "Instagram"
+    url = "https://www.instagram.com/emy_moonlight/"
+    pre = "<i class='fa fa-2x fa-instagram'></i>"
+
 
 [params]
     viewMorePostLink = "/blog/"
