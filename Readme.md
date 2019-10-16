@@ -26,4 +26,35 @@ git submodule update
 git server -w
 ```
 
+## Deploy
+
+- Delete content from public directory:
+
+```
+cd public/
+
+rm -rf *
+```
+
+- Generate public content
+
+```
+cd ../
+
+hugo
+```
+
+- Publish public/
+
+
+
+```
+cd public/
+git status
+git push origin master
+```
+
+
+
+
 
