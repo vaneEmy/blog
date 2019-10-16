@@ -13,19 +13,19 @@ googleAnalytics = "UA-102325967-1"
 paginate = 5
 
 
-[menu]
+#[menu]
 
 # Main menu
 
-[[menu.main]]
-    name = "Home"
-    url  = "/"
-    weight = 1
+#[[menu.main]]
+#    name = "Home"
+#    url  = "/"
+#    weight = 1
 
-[[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
-    weight = 2
+#[[menu.main]]
+#    name = "Blog"
+#    url  = "/blog/"
+#    weight = 2
 
 # Top bar social links menu
 
@@ -90,7 +90,7 @@ paginate = 5
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs"></p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
@@ -99,22 +99,21 @@ paginate = 5
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
-    tags = true
-    search = true
+    categories = false
+    tags = false
+    search = false
 
 [params.carousel]
-    enable = true
+    enable = false
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = false
+    enable = true
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
-
 [params.testimonials]
     enable = false
     # All testimonials are defined in their own files. You can find example items
@@ -140,6 +139,6 @@ paginate = 5
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From my blog"
     subtitle = "I am Vanessa Emily, I love drawing and programming. The main purpose of writing in my blog is to share my experience in technology world, all the things that I am learning  and of course, to practice my English skills. I hope you can find it interesting and highly enjoyable."
